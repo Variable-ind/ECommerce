@@ -1,0 +1,4 @@
+baseURL = 'https://e-commerce.github.io/'
+languageCode = 'en-us'
+title = 'My New E Commerce Site'
+theme = 'simple-snipcart-shop'
